@@ -1,0 +1,6 @@
+print "start";
+break;
+{
+  break;
+}
+if (true) break;
